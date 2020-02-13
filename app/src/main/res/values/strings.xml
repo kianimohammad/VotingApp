@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Votingn App</string>
+    <string name="name">Name</string>
+    <string-array name="candidates">
+        <item>choose your favorite candidate</item>
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+    </string-array>
+</resources>
